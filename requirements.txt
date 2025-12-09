@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+catboost
+joblib
+python-multipart # Для обработки загружаемых файлов в FastAPI
+loguru # Для удобного и мощного логирования
+requests # Для скрипта тестирования
